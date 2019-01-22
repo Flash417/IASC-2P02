@@ -8,4 +8,4 @@ Hello world!
 
 ## Blog Post 
 
-First sentence of blog post...[continue reading0](blog)
+First sentence of blog post...[continue reading](blog.md)
