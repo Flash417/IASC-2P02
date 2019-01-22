@@ -4,7 +4,7 @@
 
 Hello world!
 
-![](images/TrollFace.jpg)
+![](images/face.png)
 
 ## Blog Post 
 
