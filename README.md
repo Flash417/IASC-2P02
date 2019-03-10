@@ -1,26 +1,14 @@
 # IASC-2P02 | Austin Holierhoek 
 
-##About Me
-**I have no idea what I am doing!**
+Welcome to my blog post and page, here you will find basic information about me as well as a blog post about using graphs to display spatial data.
 
-This is a bio apparently so here we go.
-1. I have limited knowledge of HTML
-2. I like colourful things and get distacted by them easily 
-3. ... sorry there was a purple thing on my screen 
+#About Me
+I am a 3rd year student at Brock University that found themself feeling stuck within their acidemic career. After 2 years in the social sciences, I came to the conclusion that it was not the life for me. I wanted to create, contribute, work with people. I've always had a passion for the digital world, whether it be audio, visual, games... you name it. When I discovered IASC was a thing, I jumped right on board! And now I find myself in the position I am today. Here's the the next couple years and hoping they are as good as the first. Cheers!
+ 
+Down Below you will find my blog post.
 
-Anyways I'm sure you get the picture, so why am I *here*?
-
-Well thruth be told I'm a musician and a voice actor that wanted to work in the electronic entertainment field, and the best way to do that was to know how the field works.
-
-I know, I know long way around right. 
-
-Well in the meantime of being here I also discovered something. I want to do so much more. 
-
-Animate, and create stories for videogames. 
-
-Long shot but, it's worth a try.
 ![](images/face.png)
 
 ## Blog Post 
 
-First sentence of blog post...[continue reading](blog.md)
+When Henri Bergson argued that we conceive time in spatial terms, he challenged us all to stop thinking...[continue reading](blog.md)
