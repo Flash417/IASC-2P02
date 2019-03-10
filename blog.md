@@ -28,7 +28,9 @@ For sake of argument, using the readings we had in class I plugged in the words;
 Cited
 
 Drucker, Johanna. “Humanities Approaches to Graphical Display.” Digital Humanities Quarterly , 2011.
-   Im, Soo-Hyun, and Sashank Varma. “Distorted Time Perception during Flow as Revealed by an Attention-Demanding Cognitive Task.” Creativity Research Journal, vol. 30, no. 3, 2018, pp. 295–304., doi:10.1080/10400419.2018.1488346.
+
+Im, Soo-Hyun, and Sashank Varma. “Distorted Time Perception during Flow as Revealed by an Attention-Demanding Cognitive Task.” Creativity Research Journal, vol. 30, no. 3, 2018, pp. 295–304., doi:10.1080/10400419.2018.1488346.
+
 Moretti, Franco. “Abstract Models for Literary History.” Graphs, Maps, Trees, 2003, pp. 67–93. NA.
 
 
