@@ -1,6 +1,6 @@
 # Blog post 
 
-# The relations of Graphs, Time, and People 
+# The Relations of Graphs, Time, and People 
 
 When Henri Bergson argued that we conceive time in spatial terms, he challenged us all to stop thinking about time perception as linear and constant. Though many may argue against the idea of graphing time based on human perception, we see two cases where this is done to the greatest effect. Both Moretti, and Drucker demonstrate this. Moretti graphs the rise and fall of novels in different parts of the world in his paper Graphs, Maps, Trees and talks about looking outside the box, to think about the causes around the trends. Drucker talks about using graphs to visualize the human perception of time in Humanities Approaches to Graphical Display. Even though we can easily display time perception with digital media such as gifs or videos, graphs are used in effective ways. This post will explore in deeper context Moretti’s use of graphical display and elaborate on Drucker’s use of graphs in relation to a flow state study, Distorted Time Perception during Flow as Revealed by an Attention-Demanding Cognitive Task. We will also be looking at graphical relations between the papers.
 
