@@ -13,3 +13,7 @@ Down Below you will find my blog post.
 ## Blog Post 
 
 When Henri Bergson argued that we conceive time in spatial terms, he challenged us all to stop thinking...[continue reading](blog.md)
+
+## Solo Presentation
+
+[Title of Presentation](reveal/index.html)
