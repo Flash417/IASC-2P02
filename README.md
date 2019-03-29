@@ -16,4 +16,4 @@ When Henri Bergson argued that we conceive time in spatial terms, he challenged 
 
 ## Solo Presentation
 
-[Title of Presentation](reveal/index.html)
+[Zune, the device that should have been](reveal/index.html)
