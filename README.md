@@ -13,7 +13,7 @@ As stated earlier this PechaKuca takes the idea of Zune and puts it into a light
 My current updates of this project include 5 extra slides with 500 more words found within the side notes of the presentation. The slides also include 5 new pictures that I have personally edited in photoshop to work in correlation with my presentation. The first two new slides that I have included talk about Zune being a music empire like apple is currently win our day and age. I chose to talk about this because Apple has capitalized so much within the music industry despite only being an electronic company, yet for some reason when people hear apple they think music. The next slide talks about Zune taking over the Laptop and Computer world, this was inspired by the fact that Zune was able to play games before mobile gaming was as big as it is now. I feel like Microsoft would have had a gaming computer line surly based off the Zune name. In the last two slides I talk about Zune in a futuristic aspect, my original presentation did not go past today’s point and time and I feel like I really lost out on a lot by not thinking about the future. The first slide talks about Zune in the light of smart glasses, a future but current trend we are seeing. The slides then finish with the Zune Smart car. I choose to end on this note not only for conversations sake, but to highlight the fact that once a company has grounding there is no telling where it will go even if it was just an MP3 player to start with. 
 
 Click the image to see slides:
-[![](images/Zune Images/Zune_Pods.png)](reveal/index.html)
+[![](images/Zune_Pods.png)](reveal/index.html)
 
 
 ## Collabrative Project
