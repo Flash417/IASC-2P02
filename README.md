@@ -1,6 +1,6 @@
 # IASC-2P02 | Austin Holierhoek 
 
-Welcome to my blog post and page, here you will find basic information about me as well as a blog post about using graphs to display spatial data.
+ 
 
 # Biography
 
