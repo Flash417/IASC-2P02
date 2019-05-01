@@ -12,7 +12,7 @@ Here you will find my work done in a collaborative project for a free open sourc
 
 For the slide show I helped by finding and cropping images for slides 3 & 8 – 16, adding a more aesthetically pleasing vibe to the slides. In relation to this I also did the research for slides 8 – 14. Slide 8 explains where the data comes from, in which I display a picture containing the names of jazz artists as well as animated another picture to display what happens when you click on an artist displaying the information data. Slide 9 displays a picture of “52nd street”, the public data base where users can analyze interview transcripts and contribute to the project by finding relationships between musicians, in my findings I found that the 52nd Street servers have since been shut down. Slides 10 – 13 explain the research journey as a user by exploring the Network visualization tool. The slides are a step by step breakdown of the tool. Showing how when you select a musician it displays the network of all the musicians they have been in contact with around them. From there you can further investigate their relationships. The final slide I worked on, slide 15, displays all the user problems I had with all the aspects of the tool. 
 
-[images/Linked Jazz.PNG]
+[](images/Linked Jazz.png)
 
 
 ## Academic Blog 
